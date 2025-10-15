@@ -1,3 +1,25 @@
+commit 146445f4990be4284795fa82fb17fae68e429d9a
+Author: jejman <ant.qlc@gmail.com>
+Date:   Wed Oct 15 15:14:09 2025 +0200
+
+    final push
+
+commit fbb141858d91ac27a4091a19ef74fc189a10ef36
+Author: jejman <ant.qlc@gmail.com>
+Date:   Wed Oct 15 15:11:45 2025 +0200
+
+    Revert "add gitignore"
+    
+    This reverts commit 742b1ebba321072e6eda9bf1bb251a3afdbb82e8.
+
+commit 0f7b8709075f9c9577cd05e2d215a1c18e813559
+Author: jejman <ant.qlc@gmail.com>
+Date:   Wed Oct 15 15:10:47 2025 +0200
+
+    Revert "bientot le revert aller"
+    
+    This reverts commit 33e7c930b0441c9ce53dbf950f9b0812519c8813.
+
 commit 33e7c930b0441c9ce53dbf950f9b0812519c8813
 Author: jejman <ant.qlc@gmail.com>
 Date:   Wed Oct 15 15:09:22 2025 +0200
