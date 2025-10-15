@@ -1,0 +1,70 @@
+commit 5e76d6e03fa2dd46d59b7ea8f69f00d1caee14d5
+Author: jejman <ant.qlc@gmail.com>
+Date:   Wed Oct 15 15:03:02 2025 +0200
+
+    aller aller
+
+commit 742b1ebba321072e6eda9bf1bb251a3afdbb82e8
+Author: jejman <ant.qlc@gmail.com>
+Date:   Wed Oct 15 15:02:33 2025 +0200
+
+    add gitignore
+
+commit 29e6926e44cef6f595209a0485d41213e7cfca73
+Merge: 1b6a724 564d52b
+Author: jejman <ant.qlc@gmail.com>
+Date:   Wed Oct 15 14:53:07 2025 +0200
+
+    jvais ff
+
+commit 1b6a7242b30512ecc0326e555e2a90aae423b47c
+Author: jejman <ant.qlc@gmail.com>
+Date:   Wed Oct 15 14:51:12 2025 +0200
+
+    aled
+
+commit 564d52b927b20ccb535890720441975c96507f76
+Author: jejman <ant.qlc@gmail.com>
+Date:   Wed Oct 15 14:47:05 2025 +0200
+
+    test gitignore
+
+commit 48b71a4401eaa9791a0720ffefcb3a4a7e3cee25
+Merge: 7fee95b bb7a0b5
+Author: jejman <ant.qlc@gmail.com>
+Date:   Wed Oct 15 11:40:28 2025 +0200
+
+    az frr
+
+commit 7fee95be8186f5dd3cffaf6c0ef2d9301ac01872
+Author: jejman <ant.qlc@gmail.com>
+Date:   Wed Oct 15 11:38:21 2025 +0200
+
+    ALLLER LA
+
+commit bb7a0b5f3ad7252958dcaf23e946ead78feffee4
+Author: jejman <ant.qlc@gmail.com>
+Date:   Wed Oct 15 11:32:09 2025 +0200
+
+    add '\hello' '\hello\hello team.txt'
+
+commit 67e3fd38978bdf8c580854f6424b5239c7585767
+Merge: c8dcd76 a843adc
+Author: jejman <91726542+Antoninqlc@users.noreply.github.com>
+Date:   Wed Oct 15 10:17:34 2025 +0200
+
+    Merge pull request #1 from Antoninqlc/jej
+    
+    AAAAAAAAAAAAAAAAAh
+
+commit a843adc56a33d22d12807ca7cf6ae1553159e2c5
+Author: jejman <ant.qlc@gmail.com>
+Date:   Wed Oct 15 10:15:07 2025 +0200
+
+    AAAAAAAAAAAAAAAAAh
+
+commit c8dcd765369abb31d50a46620dc6a3582fa42c0d
+Author: jejman <ant.qlc@gmail.com>
+Date:   Wed Oct 15 10:08:52 2025 +0200
+
+    ADD README
